@@ -1,5 +1,5 @@
-CREATE DATABASE clubPhotographeAmateur;
-USE clubPhotographeAmateur;
+CREATE DATABASE clubPhoto;
+USE clubPhoto;
 
 CREATE TABLE region(
    Id_region INT auto_increment,
